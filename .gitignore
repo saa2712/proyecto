@@ -1,0 +1,14 @@
+# Archivos compilados de Java
+bin/
+*.class
+out/
+
+# Archivos locales del IDE
+.vscode/
+.idea/
+*.iml
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
